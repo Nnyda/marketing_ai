@@ -168,15 +168,12 @@ en démo). Le résultat est aussi écrit dans `a2a_result.json`.
 
 ---
 
-## 👥 Auteurs
+## 👥 Auteur
 
 - ADJENIA Danelius
-- BALDE Ibrahima
-- BOULANKI Loukmane
-- D'OLIVERRA Johnny
 
 ---
 
 ## 📄 Licence
 
-Projet académique. Ajoutez ici la licence de votre choix (par ex. MIT).
+Dannypropriety.

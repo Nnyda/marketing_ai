@@ -1,0 +1,6 @@
+key.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+a2a_result.json
+a2a_design_mockup.png

@@ -1,0 +1,9 @@
+openai>=1.30.0
+python-dotenv
+streamlit
+fpdf2
+pypdf
+python-docx
+python-pptx
+requests
+beautifulsoup4

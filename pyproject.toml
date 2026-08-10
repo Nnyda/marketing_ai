@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "my_multiagent_a2a"
+version = "0.1.0"
+description = "Multi-agent A2A (analysis-strategist-designer)"
+dependencies = [
+    "openai",
+    "python-dotenv"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
